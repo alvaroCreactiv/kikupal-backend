@@ -1,0 +1,11 @@
+.modal-dialog{
+	/*width: 320px !important;*/
+}
+.remove, .edit{
+	cursor: pointer;
+}
+
+
+.terminos{
+	width: 80%;
+}
